@@ -12,7 +12,7 @@ var lolkill = db.get("lolkill");
 var creator = ['Saya Eka'];
 
 
-keyapi = 'ekaKey'
+keyapi = 'kaygans'
 
 var axios = require('axios');
 var qs = require('qs');
